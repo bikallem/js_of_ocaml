@@ -34,6 +34,7 @@ let common_options () =
     ; "--enable-reference-types"
     ; "--enable-tail-call"
     ; "--enable-bulk-memory"
+    ; "--enable-multimemory"
     ; "--enable-nontrapping-float-to-int"
     ; "--enable-strings"
     ]
